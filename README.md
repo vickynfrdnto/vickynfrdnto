@@ -25,9 +25,37 @@ At Reliable I reconciled and analysed stock, sales and purchase data across 24 b
 
 ### Stack
 
-<p align="center">
-  <img src="assets/stack.svg" alt="Stack: TypeScript, React, Vite, Node.js, FastAPI, Python, Pandas, scikit-learn, Docker, PostgreSQL and more" width="100%">
-</p>
+<table>
+  <tr>
+    <td><b>Build</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,express,fastapi,prisma,threejs&theme=light">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,express,fastapi,prisma,threejs&theme=dark" alt="Build tools">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data and AI</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,powerbi&theme=light">
+        <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,powerbi&theme=dark" alt="Data and AI tools">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ship</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,firebase,netlify,git,githubactions&theme=light">
+        <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,firebase,netlify,git,githubactions&theme=dark" alt="Ship tools">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+Also: SQL, VBA, SHAP, Matplotlib.
 
 ### Selected work
 
@@ -54,14 +82,18 @@ More in [repositories](https://github.com/vickynfrdnto?tab=repositories).
 
 ### Recognition
 
-- **Top 9 finalist**, Turnamen Sains Data Nasional, Nov 2024. *Medysinc* monitors and predicts stock needs for health facilities, with generative AI and disease trend forecasting.
-- **Top 30**, Amartha x GDG Jakarta Hackathon, Nov 2025. *Arisan Pintar* is a digital finance product that empowers women.
+| When | Result | Competition | Project |
+| :-- | :-- | :-- | :-- |
+| Nov 2025 | **Top 30** | Amartha x GDG (Google Developer Group) Jakarta Hackathon | *Arisan Pintar*, a digital finance product that empowers women |
+| Nov 2024 | **Top 9 finalist** | Turnamen Sains Data Nasional | *Medysinc*, stock monitoring and prediction for health facilities with generative AI and disease trend forecasting |
 
-### Say hello
+<p align="center">
+  <img src="assets/hello.svg" alt="Got messy data or a system to build? Open for freelance and collaboration." width="100%">
+</p>
 
-Open for freelance projects and collaboration, especially dashboards, business automation and AI-assisted apps.
-
-<p>
-  <a href="mailto:ferdiantovicky00@gmail.com"><img src="assets/pill-email.svg" alt="Email"></a>
+<p align="center">
+  <a href="https://vickypedia.netlify.app/"><img src="assets/pill-portfolio.svg" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/vickynfrdnto"><img src="assets/pill-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:ferdiantovicky00@gmail.com"><img src="assets/pill-email.svg" alt="Email"></a>
+  <a href="https://instagram.com/vickynfrdnto_"><img src="assets/pill-instagram.svg" alt="Instagram"></a>
 </p>
